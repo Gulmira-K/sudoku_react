@@ -1,0 +1,22 @@
+.BlockContainer {
+  display: table;
+  margin: 0 auto;
+  border-collapse: collapse;
+
+  .row {
+    display: table-row;
+    background: #e1d8cb;
+  }
+
+  .cell {
+    display: table-cell;
+    width: 120px;
+    height: 115px;
+    vertical-align: middle;
+    border: 12px solid #bbada0;
+    text-align: center;
+    color: #776e65;
+    font-size: 4em;
+    font-weight: 600;
+  }
+}

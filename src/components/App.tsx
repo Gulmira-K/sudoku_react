@@ -1,4 +1,4 @@
-import Table from "./Table/Table";
+import Grid from "./Grid/Grid";
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
         <h1>Sudoku</h1>
       </header>
       <main>
-        <Table />
+        <Grid />
       </main>
       <footer>
         Coded by Gulmira Kojenova
