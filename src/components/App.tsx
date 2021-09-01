@@ -1,4 +1,5 @@
 import Grid from "./Grid/Grid";
+import InputNumbers from "./InputNumbers/InputNumbers";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       </header>
       <main>
         <Grid />
+        <InputNumbers />
       </main>
       <footer>
         Coded by Gulmira Kojenova

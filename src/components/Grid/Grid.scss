@@ -1,0 +1,6 @@
+.GridContainer {
+  display: grid;
+  grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+  width: 270px;
+  margin: 20px auto;
+}
